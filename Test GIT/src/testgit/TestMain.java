@@ -6,7 +6,12 @@ public class TestMain {
 		// TODO Auto-generated method stub
 		
 		StringOut so = new StringOut();
+		
 		so.hello();
+		
+		so.say();
+		
+		
 		
 
 
