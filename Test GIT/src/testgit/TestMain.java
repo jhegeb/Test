@@ -10,9 +10,7 @@ public class TestMain {
 		so.hello();
 		
 		so.say();
-		
-		
-		
+				
 
 
 	}
