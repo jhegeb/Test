@@ -11,5 +11,11 @@ public class StringOut {
 		System.out.println("Hello GIT!");
 		
 	}
+	
+	public void say(){
+		
+		System.out.println("GIT rules!");
+		
+	}
 
 }
