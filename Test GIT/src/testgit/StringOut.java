@@ -16,6 +16,7 @@ public class StringOut {
 		
 		System.out.println("GIT rules!");
 		
+		
 	}
 
 }
