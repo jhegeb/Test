@@ -12,6 +12,8 @@ public class TestMain {
 		so.say();
 		
 		so.scream();
+		
+		so.say();
 				
 
 
