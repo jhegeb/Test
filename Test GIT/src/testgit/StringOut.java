@@ -19,5 +19,13 @@ public class StringOut {
 		
 		
 	}
+	
+	public void scream(){
+		
+		
+		System.out.println("I'm screaming!!!");
+		
+		
+	}
 
 }
