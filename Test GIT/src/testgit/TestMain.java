@@ -10,6 +10,8 @@ public class TestMain {
 		so.hello();
 		
 		so.say();
+		
+		so.scream();
 				
 
 
